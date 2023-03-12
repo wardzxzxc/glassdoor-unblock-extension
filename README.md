@@ -1,0 +1,3 @@
+# glassdoor-unblock-extension
+
+It's literally 4 lines of codes...
