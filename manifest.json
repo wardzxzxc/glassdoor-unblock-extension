@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Goodbye, Glassdoor",
-  "description": "Blocks Glassdoor's Sign Up banner",
+  "name": "Glassdoor Unblocker",
+  "description": "Removes Glassdoor's annoying Sign Up banner",
   "version": "1.0",
   "icons": {
     "16": "/images/icon-small.png",
