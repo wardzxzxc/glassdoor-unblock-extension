@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Glassdoor Unblocker",
   "description": "Removes Glassdoor's annoying Sign Up banner",
-  "version": "1.0",
+  "version": "0.0.1",
   "icons": {
     "16": "/images/icon-small.png",
     "48": "/images/icon-medium.png",
@@ -12,7 +12,8 @@
     {
       "js": ["scripts/content.js"],
       "matches": [
-        "https://www.glassdoor.sg/*"
+        "https://www.glassdoor.sg/*",
+        "https://www.glassdoor.com/*"
       ],
       "runAt" : "document_idle",
       "all_frames": true
